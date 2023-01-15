@@ -31,6 +31,6 @@
 <h2 align="center">Моя статистика</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barsuchek&show_icons=true&theme=radical&locale=en&layout=compact" alt="barsuchek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barsuchek&show_icons=true&theme=gruvbox&locale=en" alt="barsuchek" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barsuchek&show_icons=true&theme=radical&locale=en" alt="barsuchek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barsuchek&theme=dark" alt="barsuchek" /></p>
