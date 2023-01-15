@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barsuchek" alt="barsuchek" /></a> </p>
 
 <h2 align="center">Информация обо мне</h2>
+
 - 🔭 Я сейчас работаю над репозиторием [Инженера центра технического обслуживания](https://github.com/Barsuchek/Maintenance-Center-Engineer)
 
 - 🌱 Я активно изучаю **С#, Python, SQL**
