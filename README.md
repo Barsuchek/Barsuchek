@@ -2,7 +2,7 @@
 <h3 align="center">Я самостоятельно изучаю языки программирования. Прошел экзамен WorldSkills по специальности "Информационные системы и программирование"</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barsuchek&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F:&color=651ac1&style=plastic" alt="barsuchek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barsuchek" alt="barsuchek" /></a> </p>
+![trophy](https://github-profile-trophy.vercel.app/?username=Barsuchek&theme=darkhub)](https://github.com/Barsuchek/github-profile-trophy)
 
 <h3 align="left">Обо мне:</h3>
 
